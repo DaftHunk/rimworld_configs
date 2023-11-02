@@ -2802,6 +2802,70 @@
 					</li>
 				</FBills>
 			</li>
+			<li>
+				<BenchTemplateName>Thing_TableStonecutter295040</BenchTemplateName>
+				<BenchDef>TableStonecutter</BenchDef>
+				<FBills>
+					<li Class="Bill_Production">
+						<loadID>-51</loadID>
+						<recipe>Make_StoneBlocksMarble</recipe>
+						<allowedSkillRange>0~20</allowedSkillRange>
+						<pawnRestriction>null</pawnRestriction>
+						<precept>null</precept>
+						<xenogerm>null</xenogerm>
+						<ingredientFilter>
+							<disallowedSpecialFilters>
+								<li>AllowCorpsesColonist</li>
+								<li>AllowCorpsesStranger</li>
+								<li>AllowCorpsesSlave</li>
+								<li>AllowCorpsesMechFriendly</li>
+								<li>AllowCorpsesMechEnemy</li>
+							</disallowedSpecialFilters>
+							<allowedDefs>
+								<li>ChunkMarble</li>
+							</allowedDefs>
+							<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+							<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+						</ingredientFilter>
+						<repeatMode>TargetCount</repeatMode>
+						<repeatCount>1</repeatCount>
+						<storeMode>BestStockpile</storeMode>
+						<storeZone>null</storeZone>
+						<targetCount>540</targetCount>
+						<unpauseWhenYouHave>540</unpauseWhenYouHave>
+						<includeFromZone>null</includeFromZone>
+					</li>
+					<li Class="Bill_Production">
+						<loadID>-52</loadID>
+						<recipe>Make_StoneBlocksLimestone</recipe>
+						<allowedSkillRange>0~20</allowedSkillRange>
+						<pawnRestriction>null</pawnRestriction>
+						<precept>null</precept>
+						<xenogerm>null</xenogerm>
+						<ingredientFilter>
+							<disallowedSpecialFilters>
+								<li>AllowCorpsesColonist</li>
+								<li>AllowCorpsesStranger</li>
+								<li>AllowCorpsesSlave</li>
+								<li>AllowCorpsesMechFriendly</li>
+								<li>AllowCorpsesMechEnemy</li>
+							</disallowedSpecialFilters>
+							<allowedDefs>
+								<li>ChunkLimestone</li>
+							</allowedDefs>
+							<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+							<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+						</ingredientFilter>
+						<repeatMode>TargetCount</repeatMode>
+						<repeatCount>43</repeatCount>
+						<storeMode>BestStockpile</storeMode>
+						<storeZone>null</storeZone>
+						<targetCount>140</targetCount>
+						<unpauseWhenYouHave>140</unpauseWhenYouHave>
+						<includeFromZone>null</includeFromZone>
+					</li>
+				</FBills>
+			</li>
 		</FBenchTemplates>
 	</ModSettings>
 </SettingsBlock>

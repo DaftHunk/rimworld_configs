@@ -215,9 +215,121 @@
 				<li>HobbesLink_PersonalComputer</li>
 				<li>HobbesLink_Still</li>
 				<li>HobbesLink_Rotovape</li>
+				<li>Building_ArenaBell</li>
+				<li>FT_Palisade</li>
+				<li>FT_Palisade_Corner</li>
+				<li>FT_Palisade_Embrasures</li>
+				<li>FT_ENIAC</li>
+				<li>FT_WallSandbag</li>
+				<li>Turbine</li>
+				<li>BigTurbine</li>
+				<li>WashingMachine</li>
+				<li>SchoolDesk</li>
+				<li>Blackboard</li>
+				<li>SacrificialFlag</li>
+				<li>Effigy</li>
+				<li>VME_WickerMan</li>
+				<li>VME_Bonfire</li>
+				<li>Pyre</li>
+				<li>ChristmasTree</li>
+				<li>Autobong</li>
+				<li>VHGE_GasPoweredStove</li>
+				<li>LTS_Pillar</li>
+				<li>LTS_BearRug</li>
+				<li>LTS_RugCarpet</li>
+				<li>LTS_CircleCarpet</li>
+				<li>LTS_WoolViscouseS</li>
+				<li>LTS_WoolViscouseLCarpet</li>
+				<li>LTS_WalmartCarpet</li>
+				<li>LTS_RoyalCarpet</li>
+				<li>LTS_StoneBorderCorner</li>
+				<li>LTS_StoneBorderEdge</li>
+				<li>LTS_LumberBorderCorner</li>
+				<li>LTS_LumberBorderEdge</li>
+				<li>LTS_WarningBorderCorner</li>
+				<li>LTS_WarningBorderEdge</li>
+				<li>LTS_TilesBorderCorner</li>
+				<li>LTS_TilesBorderEdge</li>
+				<li>LTS_TilesBorderInvertedEdge</li>
+				<li>LTS_StoneStove</li>
+				<li>LTS_ElectricStove</li>
+				<li>LTS_StoneOven</li>
+				<li>LTS_GrainMill</li>
+				<li>LTS_Sink</li>
+				<li>LTS_Firepit</li>
+				<li>LTS_FirepitRound</li>
+				<li>LTS_Fireplace</li>
+				<li>LTS_BarsGate</li>
+				<li>LTS_SimpleDoorFrame</li>
+				<li>LTS_SimpleLargeDoorFrame</li>
+				<li>LTS_SimpleDoorFrameL</li>
+				<li>LTS_FuturisticDoorFrame</li>
+				<li>LTS_FuturisticLargeDoorFrame</li>
+				<li>LTS_MetalFrameL</li>
+				<li>LTS_ArchWood</li>
+				<li>LTS_ArchStone</li>
+				<li>LTS_LargeArchStone</li>
+				<li>LTS_LargestArchStone</li>
+				<li>LTS_CobblestoneFence</li>
+				<li>LTS_Hedge</li>
+				<li>LTS_OrnateFence</li>
+				<li>LTS_Growingpit</li>
+				<li>LTS_GrowingpitRound</li>
+				<li>LTS_GrowingPlot</li>
+				<li>LTS_PathA</li>
+				<li>LTS_PathB</li>
+				<li>LTS_PathC</li>
+				<li>LTS_WallTorch</li>
+				<li>LTS_Havsta</li>
+				<li>LTS_Counter</li>
+				<li>LTS_CounterB</li>
+				<li>LTS_CounterS</li>
+				<li>LTS_CounterG</li>
+				<li>LTS_AtlasWoodCover</li>
+				<li>LTS_TableTelevision</li>
+				<li>LTS_WallTelevision</li>
+				<li>LTS_laptop</li>
+				<li>Drape</li>
+				<li>ToyBox</li>
+				<li>BabyDecoration</li>
+				<li>AMN_WallFlag</li>
+				<li>AMN_PoleFlag</li>
+				<li>AMN_PoleFlagTall</li>
+				<li>AMN_PoleFlagVertical</li>
+				<li>AMN_PoleFlagTallVertical</li>
+				<li>DA_Candles</li>
+				<li>RestrictedSign</li>
+				<li>BoSBanner</li>
+				<li>BotchJob_DivineOrderBanner</li>
+				<li>DA_DarkCandles</li>
+				<li>DA_BloodCandles</li>
+				<li>PropagandaSign</li>
+				<li>BoSsusflag</li>
+				<li>BoSsusflagus</li>
+				<li>BoSbp1b</li>
+				<li>BoSbp2a</li>
+				<li>BoSbp3s</li>
+				<li>encposter1a</li>
+				<li>encposter2a</li>
+				<li>encBanner</li>
+				<li>encBannerB</li>
+				<li>usaflagpoleB</li>
+				<li>ReinforcedGlassworkTable</li>
+				<li>FueledGlassworkTable</li>
+				<li>GlassworkTable</li>
+				<li>FT_Platform</li>
+				<li>FT_Trench</li>
+				<li>FT_Ditch</li>
+				<li>FT_CavalrySpike</li>
+				<li>FT_Sandbag</li>
+				<li>FT_TankTrap</li>
+				<li>FT_Tetrapods</li>
+				<li>FT_Barrier</li>
+				<li>FT_BarrierDiagonal</li>
+				<li>Mudmoat</li>
 			</keys>
 			<values>
-				<li>Furniture</li>
+				<li>DecorationTab</li>
 				<li>DoorTab</li>
 				<li>DoorTab</li>
 				<li>DoorTab</li>
@@ -264,63 +376,63 @@
 				<li>kitchen</li>
 				<li>kitchen</li>
 				<li>NQoL_Spots</li>
-				<li>Furniture</li>
+				<li>DecorationTab</li>
 				<li>Joy</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
 				<li>LightsTab</li>
 				<li>LightsTab</li>
 				<li>LightsTab</li>
 				<li>LightsTab</li>
 				<li>BedroomTab</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
-				<li>Furniture</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
 				<li>BedroomTab</li>
 				<li>BedroomTab</li>
 				<li>BedroomTab</li>
@@ -417,6 +529,118 @@
 				<li>NQoL_Medical</li>
 				<li>NQoL_Medical</li>
 				<li>NQoL_Medical</li>
+				<li>NQoL_Spots</li>
+				<li>Defense</li>
+				<li>Defense</li>
+				<li>Defense</li>
+				<li>NQoL_Medical</li>
+				<li>Defense</li>
+				<li>Rimatomics</li>
+				<li>Rimatomics</li>
+				<li>Hygiene</li>
+				<li>NQoL_Medical</li>
+				<li>NQoL_Medical</li>
+				<li>Ideology</li>
+				<li>Ideology</li>
+				<li>Ideology</li>
+				<li>Ideology</li>
+				<li>Ideology</li>
+				<li>Ideology</li>
+				<li>Ideology</li>
+				<li>kitchen</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>kitchen</li>
+				<li>kitchen</li>
+				<li>kitchen</li>
+				<li>kitchen</li>
+				<li>kitchen</li>
+				<li>kitchen</li>
+				<li>kitchen</li>
+				<li>kitchen</li>
+				<li>DoorTab</li>
+				<li>DoorTab</li>
+				<li>DoorTab</li>
+				<li>DoorTab</li>
+				<li>DoorTab</li>
+				<li>DoorTab</li>
+				<li>DoorTab</li>
+				<li>DoorTab</li>
+				<li>DoorTab</li>
+				<li>DoorTab</li>
+				<li>DoorTab</li>
+				<li>Structure</li>
+				<li>Structure</li>
+				<li>Structure</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>Floors</li>
+				<li>Floors</li>
+				<li>Floors</li>
+				<li>LightsTab</li>
+				<li>TableChairsTab</li>
+				<li>TableChairsTab</li>
+				<li>TableChairsTab</li>
+				<li>TableChairsTab</li>
+				<li>TableChairsTab</li>
+				<li>Floors</li>
+				<li>Joy</li>
+				<li>Joy</li>
+				<li>Joy</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>skylights</li>
+				<li>skylights</li>
+				<li>skylights</li>
+				<li>Defense</li>
+				<li>Defense</li>
+				<li>Defense</li>
+				<li>Defense</li>
+				<li>Defense</li>
+				<li>Defense</li>
+				<li>Defense</li>
+				<li>Defense</li>
+				<li>Defense</li>
+				<li>Defense</li>
 			</values>
 		</ManualSorting>
 		<ManualTabs>
@@ -11316,11 +11540,13 @@
 				<li>KitchenTab</li>
 				<li>Defense</li>
 				<li>Security</li>
+				<li>DecorationTab</li>
 			</keys>
 			<values>
 				<li>kitchen</li>
 				<li>Security</li>
 				<li>RSSRSBuildings</li>
+				<li>Furniture</li>
 			</values>
 		</ManualTabIcons>
 	</ModSettings>

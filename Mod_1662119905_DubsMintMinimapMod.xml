@@ -25,7 +25,7 @@
 			<show>True</show>
 			<col>RGBA(1.000, 0.000, 0.000, 1.000)</col>
 		</Hostiles>
-		<StaticRectPos>(1685.0, 4.0)</StaticRectPos>
+		<StaticRectPos>(1687.0, 5.0)</StaticRectPos>
 		<ShowPredators>False</ShowPredators>
 		<AttackAlerts>True</AttackAlerts>
 		<IcoScale>0.9677419</IcoScale>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Maintenance.Settings.Settings">
+		<Degradation>True</Degradation>
+		<QualityLessRanged>True</QualityLessRanged>
+		<Jamming>True</Jamming>
+		<RepairRequiresResearch>False</RepairRequiresResearch>
+		<PlaySound>True</PlaySound>
+	</ModSettings>
+</SettingsBlock>

@@ -3,6 +3,7 @@
 	<ModSettings Class="SometimesRaidsGoWrong.SRGW_Loader+SRGW_Settings">
 		<toggle_ShowWeights>False</toggle_ShowWeights>
 		<mode_ChooseGoWrongsMode>False</mode_ChooseGoWrongsMode>
+		<weight_GoWrong>0</weight_GoWrong>
 		<mode_debug>False</mode_debug>
 		<ChosenGoWrongs>
 			<keys>

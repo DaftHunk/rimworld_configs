@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Universum.Settings">
+		<saved_settings>
+			<keys>
+				<li>universum.vacuum_decompression</li>
+				<li>universum.vacuum_suffocation</li>
+				<li>universum.temperature</li>
+				<li>universum.ocean_masking</li>
+				<li>universum.vacuum</li>
+				<li>universum.vacuum_overlay</li>
+				<li>universum.remove_shadows</li>
+				<li>universum.disable_weather_change</li>
+				<li>universum.vacuum_decompression_protection</li>
+				<li>universum.vacuum_suffocation_protection</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</saved_settings>
+	</ModSettings>
+</SettingsBlock>

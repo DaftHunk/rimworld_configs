@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ManyJobs.ModSettings">
+		<MJobs_Rescuing>False</MJobs_Rescuing>
+		<MJobs_Operating>False</MJobs_Operating>
+		<MJobs_Caring>False</MJobs_Caring>
+		<MJobs_Teaching>False</MJobs_Teaching>
+		<MJobs_PriorityCleaning>False</MJobs_PriorityCleaning>
+		<MJobs_Counseling>False</MJobs_Counseling>
+		<MJobs_Converting>False</MJobs_Converting>
+		<MJobs_Recruiting>False</MJobs_Recruiting>
+		<MJobs_AnimalTraining>False</MJobs_AnimalTraining>
+		<MJobs_AnimalTaming>False</MJobs_AnimalTaming>
+		<MJobs_Butchering>False</MJobs_Butchering>
+		<MJobs_Brewing>False</MJobs_Brewing>
+		<MJobs_Maintaining>False</MJobs_Maintaining>
+		<MJobs_Harvesting>False</MJobs_Harvesting>
+		<MJobs_Drilling>False</MJobs_Drilling>
+		<MJobs_Pruning>True</MJobs_Pruning>
+		<MJobs_Mechanitor>False</MJobs_Mechanitor>
+		<MJobs_Fabricating>False</MJobs_Fabricating>
+		<MJobs_Synthesizing>False</MJobs_Synthesizing>
+		<MJobs_Refining>False</MJobs_Refining>
+		<MJobs_Smelting>False</MJobs_Smelting>
+		<MJobs_Stonecutting>False</MJobs_Stonecutting>
+		<MJobs_Delivering>False</MJobs_Delivering>
+	</ModSettings>
+</SettingsBlock>

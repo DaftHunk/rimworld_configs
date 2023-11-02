@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VFECore.VFEGlobalSettings">
+		<toggablePatch>
+			<keys />
+			<values />
+		</toggablePatch>
+		<hideRandomizeButtons>False</hideRandomizeButtons>
+		<weatherDamagesOptions>
+			<keys>
+				<li>RG_Hail</li>
+				<li>VPE_Hurricane</li>
+				<li>RG_BoilingDrizzle</li>
+				<li>RG_BoilingRain</li>
+				<li>RG_BoilingFoggyRain</li>
+				<li>RG_BoilingRainyThunderstorm</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</weatherDamagesOptions>
+		<isRandomGraphic>False</isRandomGraphic>
+		<hideRandomizeButton>False</hideRandomizeButton>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DocWorldLite.DisablePatch_Settings">
+		<patches>
+			<keys>
+				<li>Biome_Foraging.xml</li>
+				<li>Cloth_Beds.xml</li>
+				<li>Enhanced_Miniaturisation.xml</li>
+				<li>Glass_Requisites.xml</li>
+				<li>Linkables.xml</li>
+				<li>Misc.xml</li>
+				<li>Multi_Mod_Support.xml</li>
+				<li>Research_Projects.xml</li>
+				<li>Stuffed_Items.xml</li>
+			</keys>
+			<values>
+				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>False</li>
+			</values>
+		</patches>
+	</ModSettings>
+</SettingsBlock>

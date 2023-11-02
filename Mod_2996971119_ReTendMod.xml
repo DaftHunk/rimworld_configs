@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ReTend.ReTendSettings">
+		<ReTendQualityPrompt>True</ReTendQualityPrompt>
+		<ReTendMinQuality>0.33</ReTendMinQuality>
+		<ReTendDiseaseQuality>0.36</ReTendDiseaseQuality>
+	</ModSettings>
+</SettingsBlock>

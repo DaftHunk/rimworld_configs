@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CombatAI.Settings">
+		<CombatAI.SightSettings_FriendliesAndRaiders.2>
+			<frequency.2>3</frequency.2>
+			<buckets.2>5</buckets.2>
+			<carryLimit.2>12</carryLimit.2>
+		</CombatAI.SightSettings_FriendliesAndRaiders.2>
+		<CombatAI.SightSettings_MechsAndInsects.2>
+			<frequency.2>3</frequency.2>
+			<buckets.2>10</buckets.2>
+			<carryLimit.2>6</carryLimit.2>
+		</CombatAI.SightSettings_MechsAndInsects.2>
+		<CombatAI.SightSettings_Wildlife.2>
+			<frequency.2>6</frequency.2>
+			<buckets.2>10</buckets.2>
+			<carryLimit.2>4</carryLimit.2>
+		</CombatAI.SightSettings_Wildlife.2>
+		<CombatAI.SightSettings_SettlementTurrets.2>
+			<frequency.2>8</frequency.2>
+			<buckets.2>15</buckets.2>
+			<carryLimit.2>12</carryLimit.2>
+		</CombatAI.SightSettings_SettlementTurrets.2>
+	</ModSettings>
+</SettingsBlock>

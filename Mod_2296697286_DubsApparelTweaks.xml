@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="QuickFast.Settings">
+		<AltHairRenderMode>True</AltHairRenderMode>
+		<AltHairRenderLayer>-0.1</AltHairRenderLayer>
+		<hairMeshScale>1.1</hairMeshScale>
+		<ChangeEquipSpeed>True</ChangeEquipSpeed>
+		<ShowHairUnderHats>True</ShowHairUnderHats>
+		<FlatRate>True</FlatRate>
+		<HatsIndoors>True</HatsIndoors>
+		<HatsSleeping>True</HatsSleeping>
+		<HideJackets>True</HideJackets>
+		<HideEquipment>True</HideEquipment>
+		<hairFilter />
+		<hatFilter />
+		<LayerVis>
+			<li>Shell</li>
+			<li>Overhead</li>
+		</LayerVis>
+		<HatHairCombo />
+	</ModSettings>
+</SettingsBlock>

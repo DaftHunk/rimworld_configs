@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TD_Enhancement_Pack.Settings">
+		<showOverlayBuildable>False</showOverlayBuildable>
+		<autoOverlayBuildable>False</autoOverlayBuildable>
+		<showOverlayCoverage>False</showOverlayCoverage>
+		<autoOverlayCoverage>False</autoOverlayCoverage>
+		<autoOverlaySmoothable>False</autoOverlaySmoothable>
+		<showOverlayPlantHarvest>False</showOverlayPlantHarvest>
+		<autoOverlayLighting>False</autoOverlayLighting>
+		<showOverlayBeauty>False</showOverlayBeauty>
+		<showOverlayFertility>False</showOverlayFertility>
+		<showOverlayWalkSpeed>False</showOverlayWalkSpeed>
+		<showOverlayLighting>False</showOverlayLighting>
+		<cheatFertilityUnderGrid>False</cheatFertilityUnderGrid>
+		<zoneRefill>False</zoneRefill>
+		<copyPolicyButton>True</copyPolicyButton>
+	</ModSettings>
+</SettingsBlock>

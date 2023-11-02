@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PeteTimesSix.SimpleSidearms.SimpleSidearms_Settings">
+		<SettingsEverOpened>True</SettingsEverOpened>
+		<ActivePreset>Custom</ActivePreset>
+		<SeparateModes>True</SeparateModes>
+		<LimitModeAmountMelee>Slots</LimitModeAmountMelee>
+		<LimitModeAmountRanged>Slots</LimitModeAmountRanged>
+		<LimitModeAmountTotal>Slots</LimitModeAmountTotal>
+		<LimitModeAmountMelee_Slots>1</LimitModeAmountMelee_Slots>
+		<LimitModeSingleRanged_AbsoluteMass>2.7</LimitModeSingleRanged_AbsoluteMass>
+		<LimitModeAmountTotal_Slots>2</LimitModeAmountTotal_Slots>
+		<LimitModeSingle_Selection_defNames>
+			<li>MeleeWeapon_Gladius</li>
+			<li>MeleeWeapon_Axe</li>
+			<li>MeleeWeapon_Mace</li>
+			<li>MeleeWeapon_BreachAxe</li>
+			<li>MeleeWeapon_Ikwa</li>
+			<li>MeleeWeapon_Knife</li>
+			<li>MeleeWeapon_PsyfocusStaff</li>
+			<li>Weapon_GrenadeEMP</li>
+			<li>Weapon_GrenadeTox</li>
+			<li>Weapon_GrenadeFrag</li>
+			<li>Weapon_GrenadeMolotov</li>
+			<li>Gun_Autopistol</li>
+			<li>Gun_Revolver</li>
+			<li>ElephantTusk</li>
+			<li>Bow_Recurve</li>
+			<li>Flamebow</li>
+			<li>Bow_Short</li>
+		</LimitModeSingle_Selection_defNames>
+		<LimitModeSingleMelee_Selection_defNames>
+			<li>MeleeWeapon_Gladius</li>
+			<li>MeleeWeapon_Axe</li>
+			<li>MeleeWeapon_Mace</li>
+			<li>MeleeWeapon_BreachAxe</li>
+			<li>MeleeWeapon_Ikwa</li>
+			<li>MeleeWeapon_Knife</li>
+			<li>MeleeWeapon_PsyfocusStaff</li>
+			<li>ElephantTusk</li>
+		</LimitModeSingleMelee_Selection_defNames>
+		<LimitModeSingleRanged_Selection_defNames>
+			<li>Weapon_GrenadeEMP</li>
+			<li>Weapon_GrenadeTox</li>
+			<li>Weapon_GrenadeFrag</li>
+			<li>Weapon_GrenadeMolotov</li>
+			<li>Gun_MachinePistol</li>
+			<li>Gun_Autopistol</li>
+			<li>Gun_Revolver</li>
+			<li>Bow_Recurve</li>
+			<li>Flamebow</li>
+			<li>Bow_Short</li>
+		</LimitModeSingleRanged_Selection_defNames>
+		<LimitModeSingle_Selection />
+		<LimitModeSingleMelee_Selection />
+		<LimitModeSingleRanged_Selection />
+		<SkipDangerousWeapons>False</SkipDangerousWeapons>
+		<FumbleRecoveryChance>
+			<li>(0.00, 0.00)</li>
+			<li>(2.00, 0.15)</li>
+			<li>(5.00, 0.85)</li>
+			<li>(7.00, 1.00)</li>
+			<li>(20.00, 1.00)</li>
+		</FumbleRecoveryChance>
+		<ShowAlertsMissingSidearm>False</ShowAlertsMissingSidearm>
+	</ModSettings>
+</SettingsBlock>

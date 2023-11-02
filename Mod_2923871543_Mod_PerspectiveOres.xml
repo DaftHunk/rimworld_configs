@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PerspectiveOres.ModSettings_PerspectiveOres">
+		<skippedMineableDefs>
+			<li>MineableComponentsIndustrial</li>
+			<li>MineableSteel</li>
+			<li>MineableSilver</li>
+			<li>MineableGold</li>
+			<li>MineableUranium</li>
+			<li>MineablePlasteel</li>
+			<li>MineableJade</li>
+			<li>VPE_EltexOre</li>
+		</skippedMineableDefs>
+	</ModSettings>
+</SettingsBlock>

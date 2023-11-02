@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MortarAccuracy.Settings">
+		<minSkillSpreadReduction>-0.4</minSkillSpreadReduction>
+	</ModSettings>
+</SettingsBlock>

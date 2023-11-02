@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ToggleableReadouts.ModSettings_ToggleableReadouts">
+		<exposedFilteredDefs>
+			<li>ThingCategoryDef/yy_ammo_category</li>
+			<li>ThingCategoryDef/VCE_UncookedSoups</li>
+			<li>ThingCategoryDef/VVE_CarParts</li>
+			<li>ThingCategoryDef/VCE_Fruit</li>
+			<li>ThingCategoryDef/PlantMatter</li>
+			<li>ThingCategoryDef/Foods</li>
+			<li>ThingCategoryDef/FoodRaw</li>
+			<li>ThingDef/VBE_SimpleCocktail</li>
+			<li>ThingDef/Neutroamine</li>
+			<li>ThingDef/Glass</li>
+			<li>ThingDef/LargeCircularGlass</li>
+			<li>ThingDef/VPE_Eltex</li>
+			<li>ThingDef/RimNauts2_Module_Station</li>
+		</exposedFilteredDefs>
+	</ModSettings>
+</SettingsBlock>

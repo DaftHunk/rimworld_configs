@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MothballedAndDeadPawns.Settings">
+		<gentlePawnsCleanUp>True</gentlePawnsCleanUp>
+		<disableReportLetter>True</disableReportLetter>
+		<runDiscardQuests>True</runDiscardQuests>
+	</ModSettings>
+</SettingsBlock>

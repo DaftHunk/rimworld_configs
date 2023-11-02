@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Kyrun.Reunion.Settings">
+		<minDaysBetweenEvents>7</minDaysBetweenEvents>
+		<maxDaysBetweenEvents>15</maxDaysBetweenEvents>
+		<enableHarderEventsWhenSolo>False</enableHarderEventsWhenSolo>
+		<allowEventWandererJoins>True</allowEventWandererJoins>
+		<allowEventRefugeePodCrash>False</allowEventRefugeePodCrash>
+		<allowEventRefugeeChased>True</allowEventRefugeeChased>
+		<allowEventPrisonerRescue>True</allowEventPrisonerRescue>
+		<allowEventDownedRefugee>True</allowEventDownedRefugee>
+	</ModSettings>
+</SettingsBlock>

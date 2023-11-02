@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SeedsPleaseLite.ModSettings_SeedsPleaseLite">
+		<clearSnow>True</clearSnow>
+		<seedless>
+			<li>Plant_Rice</li>
+			<li>Plant_Potato</li>
+			<li>Plant_TreeDrago</li>
+			<li>Plant_TreeWillow</li>
+			<li>Plant_TreeCypress</li>
+			<li>Plant_TreeMaple</li>
+			<li>Plant_TreeOak</li>
+			<li>Plant_TreePoplar</li>
+			<li>Plant_TreePine</li>
+			<li>Plant_TreeBirch</li>
+			<li>Plant_TreeTeak</li>
+			<li>Plant_TreeCecropia</li>
+			<li>Plant_TreePalm</li>
+			<li>Plant_TreeBamboo</li>
+			<li>Plant_TreeGrayPine</li>
+			<li>Plant_Witchwood</li>
+			<li>Plant_RatPalm</li>
+			<li>RG_Plant_TreeAspenRed</li>
+			<li>RG_Plant_TreeAspenYellow</li>
+			<li>RG_Plant_TreeBoilingBirch</li>
+			<li>RG_Plant_SpikedBoilingTreePine</li>
+			<li>RG_Plant_BoilingTreePine</li>
+			<li>VCE_Tomato</li>
+			<li>VCE_PlumTree</li>
+			<li>RG_Plant_OrangeTreePine</li>
+			<li>RG_Plant_BlueTreePine</li>
+			<li>RG_Plant_LargeTreePine</li>
+			<li>RG_Plant_TreeCornish</li>
+			<li>RG_Tree_TundraTreePine</li>
+			<li>RG_Plant_JoshuaTree</li>
+			<li>RG_Plant_TreeToxipine</li>
+			<li>RG_Plant_TreeSplitpine</li>
+			<li>RG_Plant_TreeToxiTeak</li>
+			<li>VCE_Wheat</li>
+			<li>RG_Plant_TreeWhiteWillow</li>
+			<li>RG_Plant_TreeDwarfPalm</li>
+			<li>RG_Plant_TallPalmTree</li>
+		</seedless>
+	</ModSettings>
+</SettingsBlock>

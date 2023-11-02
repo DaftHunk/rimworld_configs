@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VIESAS.VIESASSettings">
+		<minimumColonistCountForSchismToOccur>100</minimumColonistCountForSchismToOccur>
+		<pctOfColonistsToTurnToNewIdeology>0.001</pctOfColonistsToTurnToNewIdeology>
+		<oddsOfSchismOccuring>0.001</oddsOfSchismOccuring>
+		<ideologyConversionCheckDaysInterval>30</ideologyConversionCheckDaysInterval>
+	</ModSettings>
+</SettingsBlock>

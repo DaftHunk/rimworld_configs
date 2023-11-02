@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TabulaRasa.TabulaRasaSettings">
+		<raceSpawningSettings>
+			<keys />
+			<values />
+		</raceSpawningSettings>
+		<raceSpawningWeights>
+			<keys />
+			<values />
+		</raceSpawningWeights>
+		<markedAsSeen />
+		<empireHostilityFixedFactions>
+			<keys>
+				<li>PlayerColony</li>
+				<li>PlayerTribe</li>
+				<li>VREA_AndroidAwakenedUtopia</li>
+				<li>VFEM_PlayerKingdom</li>
+				<li>VFES_PlayerSettlement</li>
+				<li>VFEV_PlayerClan</li>
+				<li>VFE_PlayerOutpost</li>
+				<li>VFEA_NewVault</li>
+				<li>VFEC_NewEmpire</li>
+				<li>VFEE_NewFamily</li>
+				<li>VFEP_PlayerPirate</li>
+				<li>VFED_NewSafehaven</li>
+				<li>OuterRim_EmpirePlayerFaction</li>
+				<li>OuterRim_RebelPlayerFaction</li>
+				<li>OuterRim_RepublicPlayerFaction</li>
+				<li>OuterRim_MandoPlayerFaction</li>
+				<li>PlayerColonyBoS</li>
+				<li>PlayerColonyEnc</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</empireHostilityFixedFactions>
+	</ModSettings>
+</SettingsBlock>

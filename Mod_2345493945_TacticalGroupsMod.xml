@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TacticalGroups.TacticalGroupsSettings">
+		<DisplayHealth>True</DisplayHealth>
+		<DisplayWeapons>True</DisplayWeapons>
+		<DisplayColorBars>True</DisplayColorBars>
+		<AllGroupPresetsSaveable>
+			<li>
+				<id>1</id>
+				<name>Combat</name>
+				<activeWorkTypes>
+					<keys />
+					<values />
+				</activeWorkTypes>
+				<groupWorkPriorities>
+					<keys />
+					<values />
+				</groupWorkPriorities>
+			</li>
+		</AllGroupPresetsSaveable>
+	</ModSettings>
+</SettingsBlock>

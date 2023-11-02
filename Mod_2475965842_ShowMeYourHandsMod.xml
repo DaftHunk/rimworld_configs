@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ShowMeYourHands.ShowMeYourHandsModSettings">
+		<MatchArmorColor>True</MatchArmorColor>
+		<MatchArtificialLimbColor>True</MatchArtificialLimbColor>
+		<MatchHandAmounts>True</MatchHandAmounts>
+		<ShowWhenCarry>True</ShowWhenCarry>
+		<ManualMainHandPositions>
+			<keys />
+			<values />
+		</ManualMainHandPositions>
+		<ManualOffHandPositions>
+			<keys />
+			<values />
+		</ManualOffHandPositions>
+	</ModSettings>
+</SettingsBlock>

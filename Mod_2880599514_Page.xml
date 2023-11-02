@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RimNauts2.Settings.Container">
+		<object_generation_steps>
+			<keys>
+				<li>Asteroid</li>
+				<li>AsteroidCrashing</li>
+				<li>Moon</li>
+			</keys>
+			<values>
+				<li>1000</li>
+				<li>100</li>
+				<li>1</li>
+			</values>
+		</object_generation_steps>
+		<asteroid_ore_toggle>True</asteroid_ore_toggle>
+		<max_asteroid_ores>30</max_asteroid_ores>
+		<asteroid_ore_verbose>True</asteroid_ore_verbose>
+		<multi_threaded_update>True</multi_threaded_update>
+		<incident_patch>True</incident_patch>
+		<world_feature_name>True</world_feature_name>
+		<neo_trails>True</neo_trails>
+		<allow_raids_on_neos>True</allow_raids_on_neos>
+		<allow_quests_on_neos>True</allow_quests_on_neos>
+	</ModSettings>
+</SettingsBlock>

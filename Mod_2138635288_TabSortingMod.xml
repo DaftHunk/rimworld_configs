@@ -327,6 +327,27 @@
 				<li>FT_Barrier</li>
 				<li>FT_BarrierDiagonal</li>
 				<li>Mudmoat</li>
+				<li>VHGE_HelixienPump</li>
+				<li>SpikecoreFloorStar_Medium</li>
+				<li>SpikecoreFloorStar_Broad</li>
+				<li>RusticRug_Medium</li>
+				<li>RusticRug_Broad</li>
+				<li>VFEE_LargeRoyalRug</li>
+				<li>VFEE_GrandRoyalRug</li>
+				<li>BatteringRam_Blueprint</li>
+				<li>BigBread_Blueprint</li>
+				<li>Cruiser_Blueprint</li>
+				<li>Crusher_Blueprint</li>
+				<li>DumpTruck_Blueprint</li>
+				<li>Fellowtown_Blueprint</li>
+				<li>FireWall_Blueprint</li>
+				<li>Katyusha_Blueprint</li>
+				<li>PipeOrgan_Blueprint</li>
+				<li>Porter_Blueprint</li>
+				<li>ShoppingCart_Blueprint</li>
+				<li>Sturmgeschutz_Blueprint</li>
+				<li>Tachanka_Blueprint</li>
+				<li>Vasilek_Blueprint</li>
 			</keys>
 			<values>
 				<li>DecorationTab</li>
@@ -599,7 +620,7 @@
 				<li>TableChairsTab</li>
 				<li>TableChairsTab</li>
 				<li>TableChairsTab</li>
-				<li>Floors</li>
+				<li>DecorationTab</li>
 				<li>Joy</li>
 				<li>Joy</li>
 				<li>Joy</li>
@@ -641,6 +662,27 @@
 				<li>Defense</li>
 				<li>Defense</li>
 				<li>Defense</li>
+				<li>VCHE_PipeNetworks</li>
+				<li>Ideology</li>
+				<li>Ideology</li>
+				<li>Ideology</li>
+				<li>Ideology</li>
+				<li>DecorationTab</li>
+				<li>DecorationTab</li>
+				<li>VF_Vehicles</li>
+				<li>VF_Vehicles</li>
+				<li>VF_Vehicles</li>
+				<li>VF_Vehicles</li>
+				<li>VF_Vehicles</li>
+				<li>VF_Vehicles</li>
+				<li>VF_Vehicles</li>
+				<li>VF_Vehicles</li>
+				<li>VF_Vehicles</li>
+				<li>VF_Vehicles</li>
+				<li>VF_Vehicles</li>
+				<li>VF_Vehicles</li>
+				<li>VF_Vehicles</li>
+				<li>VF_Vehicles</li>
 			</values>
 		</ManualSorting>
 		<ManualTabs>

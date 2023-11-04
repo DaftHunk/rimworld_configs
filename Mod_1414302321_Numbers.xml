@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="Numbers.Numbers_Settings">
-		<numbersPawnTableDefs />
+		<numbersPawnTableDefs>
+			<li>Numbers_MainTable,Douft,LabelShortWithIcon,Numbers_Equipment,Numbers_DiseaseProgress,Numbers_Operations,Numbers_Age,Numbers_Ideology,Numbers_Inspiration,Numbers_JobCurrent,Numbers_JobQueued,RemainingSpace,</li>
+		</numbersPawnTableDefs>
 	</ModSettings>
 </SettingsBlock>

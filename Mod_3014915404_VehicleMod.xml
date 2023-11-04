@@ -224,6 +224,81 @@
 					<innerKeys />
 					<innerValues />
 				</li>
+				<li>
+					<key>TC_BatteringRam</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_BigBread</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_Cruiser</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_Crusher</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_DumpTruck</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_Fellowtown</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_FireWall</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_Katyusha</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_PipeOrgan</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_Porter</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_ShoppingCart</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_Sturmgeschutz</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_Tachanka</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_Vasilek</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>SCWintermute</key>
+					<innerKeys />
+					<innerValues />
+				</li>
 			</fieldSettings>
 			<vanillaStats />
 			<vehicleStats />

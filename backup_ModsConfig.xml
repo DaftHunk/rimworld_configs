@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.4.3704 rev874</version>
+    <version>1.4.3901 rev218</version>
     <activeMods>
         <li>brrainz.harmony</li>
         <li>ludeon.rimworld</li>
@@ -212,11 +212,13 @@
         <li>danielwedemeyer.generipper</li>
         <li>zaf.injectgene</li>
         <li>smashphil.vehicleframework</li>
-        <li>aoba.motorization.engine</li>
         <li>oskarpotocki.vanillavehiclesexpanded</li>
         <li>oskarpotocki.vanillavehiclesexpandedtier3</li>
+        <li>aoba.motorization.engine</li>
         <li>sarg.alphavehiclesneolithic</li>
         <li>aoba.mz.mobileworker</li>
+        <li>mo.technicalvehicles</li>
+        <li>pal5k.snowcrawler</li>
         <li>vanillaexpanded.vieat</li>
         <li>vanillaexpanded.viehar</li>
         <li>vanillaexpanded.ideo.iconsandsymbols</li>
@@ -225,6 +227,7 @@
         <li>oskarpotocki.vanillaexpanded.ideologypatches</li>
         <li>oskarpotocki.vanillaexpanded.royaltypatches</li>
         <li>limetreesnake.furnishing</li>
+        <li>dbl.textureaddons.lts.continued</li>
         <li>rachek128.ritualsizeattenuation</li>
         <li>superniquito.allideoligionsarefluid</li>
         <li>telardo.fireworks</li>
@@ -380,6 +383,7 @@
         <li>owlchemist.simplefx.splashes</li>
         <li>owlchemist.simplefx.smoke2</li>
         <li>mysticfelines.simplefx.smoke2.patches</li>
+        <li>keshash.extraexplosioneffects</li>
         <li>owlchemist.scatteredflames</li>
         <li>automatic.bionicicons</li>
         <li>jgh.epoe</li>
